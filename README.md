@@ -51,3 +51,7 @@ This project involves segmenting customers based on their behavior using K-Means
 | 0       | High spenders, loyal customers               | Loyalty rewards, early access to premium products   |
 | 1       | Price-sensitive, low engagement              | Discount campaigns, referral programs               |
 | 2       | Occasional buyers, moderate engagement       | Personalized emails, product recommendations        |
+
+✅ Author: Sayed Abdul Gaffar
+🎯 Role: Data Analyst Intern @ TechNest
+📅 Project: Customer segmentation using clustering
